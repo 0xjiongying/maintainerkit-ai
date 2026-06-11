@@ -39,3 +39,48 @@ Planned:
 ## Example
 
 Input:
+
+Output:
+
+---
+
+## Project Goals
+
+MaintainerKit AI focuses on:
+
+- Reducing maintainer workload
+- Improving open-source collaboration
+- Helping contributors communicate better
+- Making project maintenance more scalable
+
+---
+
+## Roadmap
+
+v0.1
+
+- Core analyzer
+- Examples
+- Tests
+- Documentation
+
+
+Future:
+
+- GitHub API integration
+- OpenAI API integration
+- Automated workflows
+
+---
+
+## Contributing
+
+Contributions, ideas, and feedback are welcome.
+
+See CONTRIBUTING.md for details.
+
+---
+
+## License
+
+MIT License
