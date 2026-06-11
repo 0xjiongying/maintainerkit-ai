@@ -1,4 +1,4 @@
-from src.maintainerkit import IssueAnalyzer
+from maintainerkit import IssueAnalyzer
 
 
 def test_bug_detection():
